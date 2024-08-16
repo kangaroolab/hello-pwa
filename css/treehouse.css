@@ -139,8 +139,8 @@ main {
   width: 20px;
   height: 20px;
   background-color: var(--color-icon-secondary);
-  -webkit-mask: url(/logo.svg) no-repeat center;
-  mask: url(/logo.svg) no-repeat center;
+  -webkit-mask: url(./treehouse.svg) no-repeat center;
+  mask: url(./treehouse.svg) no-repeat center;
 }
 .sidebar-main {
   padding: var(--padding);
